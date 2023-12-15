@@ -16,6 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisismrsanjay&show_icons=true&locale=en&layout=compact" alt="thisismrsanjay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisismrsanjay&" alt="thisismrsanjay" /></p>
-![download](https://github.com/thisismrsanjay/thisismrsanjay/assets/37665041/5b1bdb64-7d40-45b0-81a2-c25febdf6833)
+
+<p><img align="center" src="https://github.com/thisismrsanjay/thisismrsanjay/assets/37665041/5b1bdb64-7d40-45b0-81a2-c25febdf6833" alt="thisismrsanjay" /></p>
 
 
