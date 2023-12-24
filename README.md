@@ -4,7 +4,8 @@
 <a  href="https://github.com/thisismrsanjay/thisismrsanjay/files/13761562/thisismrsanjay.pdf" target="blank" > 
 <h1 align="center"> Resume 📜</h1>
 
-
+ 
+ </a>
 
 <a  href="https://github.com/thisismrsanjay?tab=repositories"> 
 <h2 align="center"> My Projects 👨‍💻</h2>
@@ -13,8 +14,7 @@
 
 
 
- 
- </a>
+
 
 
 <h3 align="center">Connect with me:</h3>
